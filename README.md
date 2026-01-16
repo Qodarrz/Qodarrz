@@ -112,7 +112,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Qodarrz/Qodarrz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Qodarrz/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -147,7 +147,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qodarrz.Qodarrz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qodarrz&"  />
 </div>
 
 ###
