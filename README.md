@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2019 and systematically squashing them through rigorous debugging and security audits.<br><br>📚 I'm currently learning the synergy between React Three Fiber for immersive UI, Advanced Python for automation, and Penetration Testing to harden system infrastructures.<br><br>🎯 Goals: To become a Full-Stack Security Architect who can seamlessly integrate robust hardware systems with high-performance, unhackable software solutions.<br><br>🎲 Fun fact: I don't just fix the code; I’ve been known to take apart the hardware it runs on just to make sure the electrons are flowing in the right direction.</h5>
+<h5 align="left">✨ Creating bugs since 2019 and systematically squashing them through rigorous debugging and security audits.<br><br>📚 I'm currently learning the synergy between React Three Fiber for immersive UI, Advanced Python for automation, and Penetration Testing to harden system infrastructures.<br><br>🎯 Goals: To become a Full-Stack Security Architect who can seamlessly integrate robust hardware systems with high-performance, unhackable software solutions.<br><br>🎲 Fun fact: I don't just fix the code; I've been known to take apart the hardware it runs on just to make sure the electrons are flowing in the right direction.</h5>
 
 ###
 
@@ -146,5 +146,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Qodarrz.Qodarrz&"  />
 </div>
-
-###
