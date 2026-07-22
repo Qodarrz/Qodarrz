@@ -1,81 +1,100 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qodarrz/Qodarrz/main/dark_mode.svg">
-    <img alt="Heidar — software, hardware, and security engineer" src="https://raw.githubusercontent.com/Qodarrz/Qodarrz/main/light_mode.svg">
+    <img alt="Muhammad Heidar Arrizqie — Software Engineer" src="https://raw.githubusercontent.com/Qodarrz/Qodarrz/main/light_mode.svg">
   </picture>
+
+```text
+software engineering  ·  iot systems  ·  product design  ·  cybersecurity
+```
+
+[Portfolio](https://heidar.my.id) · [LinkedIn](https://linkedin.com/in/muhammadheidararrizqie) · [Email](mailto:heidararizki@gmail.com)
 </div>
 
-<div align="center">
+## About
+
+I am **Muhammad Heidar Arrizqie**, a Junior Software Engineer based in Bogor, Indonesia.
+I build end-to-end digital products across full-stack web, mobile, IoT, and microservices—
+from shaping an interface and system architecture to deploying a dependable solution.
 
 ```text
-software engineering  ·  hardware systems  ·  product design  ·  security
+┌─ approach ─────────────────────────────────────────────────┐
+│  Build useful systems. Keep them clear, scalable, secure.  │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-## Profile
-
-I am a multidisciplinary engineer working across software, hardware, design, and
-cybersecurity. I enjoy turning an idea into a complete product: defining the experience,
-designing the electronics, writing the firmware and software, then making sure the system
-is reliable and secure in the real world.
+## Focus Areas
 
 ```text
-┌─ current direction ────────────────────────────────────────┐
-│  Building secure, useful systems from circuit to interface │
-└────────────────────────────────────────────────────────────┘
+FULL-STACK PRODUCTS    Type-safe web applications, APIs, and scalable backends
+IOT & EDGE SYSTEMS     ESP32 integration, MQTT, real-time telemetry, cloud dashboards
+PRODUCT DESIGN         Accessible, user-centred interfaces and thoughtful visual systems
+CYBERSECURITY          Threat awareness, vulnerability assessment, secure application practice
+COMPUTER VISION        Face-recognition solutions with OpenCV and TensorFlow
 ```
 
-## What I Build
+## Technical Toolkit
 
-```text
-CONNECTED DEVICES      IoT products, home automation, telemetry, edge systems
-EMBEDDED PLATFORMS     Firmware, RTOS applications, Linux-based devices
-SOFTWARE PRODUCTS      Services, tooling, automation, developer-friendly interfaces
-SECURITY-MINDED WORK   Safer device communication, system hardening, secure-by-design
-PRODUCT EXPERIENCES    Clear visual systems and practical interactions for real users
-```
-
-## Technical Practice
-
-| Area | Working with |
+| Discipline | Technologies |
 | :-- | :-- |
-| Software engineering | C, C++, Python, Rust, Go, Shell; automation and systems tooling |
-| Hardware engineering | ESP32 / ESP8266, Raspberry Pi, Arduino, sensors, rapid prototyping |
-| Embedded & Linux | Kaya OS, Zephyr RTOS, FreeRTOS, Arch, Debian, Ubuntu |
-| Connectivity | Wi-Fi, Bluetooth LE, LoRa, MQTT, UART, I²C, SPI, CAN bus |
-| Cybersecurity | Secure system thinking, Linux hardening, safer communication and access control |
-| Product design | Interface design, information hierarchy, design systems, thoughtful UX |
-| Engineering workflow | Git, Docker, CI/CD, documentation, reproducible development |
-
-## Engineering Principles
-
-```text
-01  Make complexity feel simple.
-02  Design for the people who will use—and maintain—the system.
-03  Treat reliability and security as product features, not afterthoughts.
-04  Prefer clear interfaces, observable behavior, and code that earns trust.
-```
+| Languages | TypeScript, JavaScript, Python, Go, SQL |
+| Front end & mobile | Next.js, React, Vue.js, Flutter |
+| Back end | Laravel, Express.js, FastAPI, Fiber, Gin, NestJS |
+| IoT & real-time | ESP32, MQTT, Socket.IO, sensor monitoring |
+| AI & automation | TensorFlow, OpenCV, n8n, Playwright |
+| Delivery & design | Docker, Framer, Git, CI/CD, SDLC |
 
 ## Experience
 
 ```text
-Python Developer  /  CITIC Pacific
+2026 — present  Junior Software Engineer & IoT Developer  /  PT Startcode Tech Digital
+                 • Designed microservices for real-time IoT data using MQTT and Socket.IO.
+                 • Owned the SDLC from requirements and design through testing and production deployment.
+                 • Implemented biometric face recognition with OpenCV and TensorFlow.
+
+2026 — present  Junior Software Engineer (project-based)  /  PT Codekodein
+                 • Built responsive React and Next.js applications with TypeScript.
+                 • Developed scalable REST APIs and microservices with Express and FastAPI.
+
+2026 — present  Junior Software Engineer (project-based)  /  PT Joki Proyek
+                 • Delivered tailored web applications and IoT solutions for client needs.
+                 • Connected ESP32 hardware to cloud platforms and real-time sensor dashboards.
+
+2026             Junior Software Engineer Intern  /  PT Bonet Utama
+                 • Contributed to full-stack JavaScript, React, PHP, and Laravel projects.
+                 • Supported production troubleshooting and comprehensive software testing.
 ```
 
-My foundation in software development now informs how I approach every layer of a product:
-from state machines and device drivers to usable screens, resilient services, and systems
-that remain understandable under pressure.
+## Selected Work
 
-## Open To
+| Project | Outcome |
+| :-- | :-- |
+| **Digital BPKB Archive Cabinet — BKAD Bogor City** | Designed and assembled an IoT-powered automated archive cabinet. A web interface selects a document shelf and drives the mechanical/electrical system to its position. |
+| **FlowGov** | Developed an ERP-style public-service platform with real-time permit tracking, dynamic SLA escalation, role-based dashboards, and OCR-based ID verification. |
+| **PinDai CBT School** | Built a computer-based testing platform with a question bank, live exam-session monitoring, automated assessment reports, and RBAC for administrators, teachers, and students. |
+
+## Recognition & Credentials
 
 ```text
-Embedded & IoT engineering  ·  Software systems  ·  Hardware prototyping
-Security-conscious product work  ·  Technical product and interface design
+2026  2nd Place — National Web Design Competition, IBIK University
+2026  5th Place — National Web Development Competition, Tarumanagara University
+2025  3rd Place — National Web Development Competition, Telkom University
+2025  3rd Place — Regional Cybersecurity Competition, Puspernas Indonesia
+2025  BNSP Junior Cyber Security Certification — PT Telkom DigiUp
+```
+
+## Education
+
+```text
+2023 — 2026  Software and Game Development (PPLG)  /  SMKN 4 Kota Bogor
+              Focus: programming fundamentals, web, mobile, UI design, algorithms, and SDLC.
+
+              IoT & Cloud Computing Training  /  PT Seamolec
+              Junior Cyber Security Training  /  PT Telkom DigiUp
 ```
 
 ---
 
 <div align="center">
-  <sub>From silicon to software to the human on the other side.</sub>
+  <sub>From a product idea to the system that makes it work.</sub>
 </div>
