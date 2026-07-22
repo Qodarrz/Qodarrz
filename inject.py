@@ -16,7 +16,7 @@ def patch_svg(filename, ascii_lines):
         text_color = '#000000'
 
     # Create new ascii text block
-    new_ascii = f'''<text x="15" y="30" fill="{text_color}" class="ascii" style="font-size: {font_size:.2f}px; font-family: monospace; letter-spacing: 0px;">\n'''
+    new_ascii = f'''<text x="15" y="10" fill="{text_color}" class="ascii" style="font-size: {font_size:.2f}px; font-family: monospace; letter-spacing: 0px;">\n'''
     
     # We use dy to relative position each line, which is much easier
     for i, line in enumerate(ascii_lines):
