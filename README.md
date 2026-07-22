@@ -9,6 +9,7 @@ software engineering  ·  iot systems  ·  product design  ·  cybersecurity
 ```
 
 [Portfolio](https://heidar.my.id) · [LinkedIn](https://linkedin.com/in/muhammadheidararrizqie) · [Email](mailto:heidararizki@gmail.com)
+
 </div>
 
 ## About
@@ -35,14 +36,14 @@ COMPUTER VISION        Face-recognition solutions with OpenCV and TensorFlow
 
 ## Technical Toolkit
 
-| Discipline | Technologies |
-| :-- | :-- |
-| Languages | TypeScript, JavaScript, Python, Go, SQL |
-| Front end & mobile | Next.js, React, Vue.js, Flutter |
-| Back end | Laravel, Express.js, FastAPI, Fiber, Gin, NestJS |
-| IoT & real-time | ESP32, MQTT, Socket.IO, sensor monitoring |
-| AI & automation | TensorFlow, OpenCV, n8n, Playwright |
-| Delivery & design | Docker, Framer, Git, CI/CD, SDLC |
+| Discipline         | Technologies                                     |
+| :----------------- | :----------------------------------------------- |
+| Languages          | TypeScript, JavaScript, Python, Go, SQL          |
+| Front end & mobile | Next.js, React, Vue.js, Flutter                  |
+| Back end           | Laravel, Express.js, FastAPI, Fiber, Gin, NestJS |
+| IoT & real-time    | ESP32, MQTT, Socket.IO, sensor monitoring        |
+| AI & automation    | TensorFlow, OpenCV, n8n, Playwright              |
+| Delivery & design  | Docker, Framer, Git, CI/CD, SDLC                 |
 
 ## System Engineering
 
@@ -69,14 +70,6 @@ APPLICATION SECURITY  Threat-aware development, access control, and secure syste
 PRODUCT DESIGN        User flows, visual hierarchy, accessible interaction, and clear UX
 COMPUTER VISION       Face detection and recognition workflows using OpenCV and TensorFlow
 ```
-
-## Selected Work
-
-| Project | Outcome |
-| :-- | :-- |
-| **Digital BPKB Archive Cabinet — BKAD Bogor City** | Designed and assembled an IoT-powered automated archive cabinet. A web interface selects a document shelf and drives the mechanical/electrical system to its position. |
-| **FlowGov** | Developed an ERP-style public-service platform with real-time permit tracking, dynamic SLA escalation, role-based dashboards, and OCR-based ID verification. |
-| **PinDai CBT School** | Built a computer-based testing platform with a question bank, live exam-session monitoring, automated assessment reports, and RBAC for administrators, teachers, and students. |
 
 ---
 
