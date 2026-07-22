@@ -71,6 +71,24 @@ PRODUCT DESIGN        User flows, visual hierarchy, accessible interaction, and 
 COMPUTER VISION       Face detection and recognition workflows using OpenCV and TensorFlow
 ```
 
+## GitHub Pulse
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Qodarrz/Qodarrz/output/github-stats.svg" alt="GitHub totals: commits, pull requests, issues, stars, and contributions">
+  <br>
+  <sub>Public GitHub activity, refreshed automatically every day.</sub>
+</div>
+
+## Contribution Arcade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qodarrz/Qodarrz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qodarrz/Qodarrz/output/pacman-contribution-graph.svg">
+    <img alt="Animated Pac-Man contribution graph" src="https://raw.githubusercontent.com/Qodarrz/Qodarrz/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
