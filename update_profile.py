@@ -19,7 +19,7 @@ def update_profile(filename):
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">TechStack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">ExpressJS, Gin, NestJS</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">TechStack</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">TensorFlow, OpenCV, n8n</tspan>
 <tspan x="390" y="290" class="cc">. </tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">OS</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Lineage OS, GrapheneOS, CalyxOS</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">OS</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LineageOS, GrapheneOS, CalyxOS</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">OS</tspan>.<tspan class="key">Desktop</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Ubuntu, Mint, Windows, Arch</tspan>
 <tspan x="390" y="350" class="cc">. </tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Expertise</tspan>.<tspan class="key">Domain</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Web, App, IoT, Cybersecurity</tspan>
