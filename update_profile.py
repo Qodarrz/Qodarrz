@@ -7,7 +7,6 @@ def update_profile(filename):
     new_profile = '''<text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">xroot@HeiDarrz</tspan> -——————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Software, IoT, CyberSec</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">18 years, 0 months, 0 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Bogor City, West Java, ID</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">SMKN 4 Bogor City</tspan>
 <tspan x="390" y="130" class="cc">. </tspan>
@@ -30,7 +29,6 @@ def update_profile(filename):
 <tspan x="390" y="470" class="cc">. </tspan>
 <tspan x="390" y="490" class="cc">- </tspan><tspan>Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">heidararizki@gmail.com</tspan>
-<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">+62 857-7364-3862</tspan>
 <tspan x="390" y="550" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">in/muhammadheidararrizqie</tspan>
 <tspan x="390" y="570" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">https://heidar.my.id</tspan>
 <tspan x="390" y="590" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Qodarrz</tspan>
